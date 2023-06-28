@@ -9,7 +9,7 @@ The Website Text Extractor is a program that allows users to extract all the tex
 - Extracts all text from a given URL
 - User-friendly GUI
 - Easy to use and navigate
-- Efficient and reliable web scraping capabilities
+- Efficient and reliable extraction capabilities
 
 ## Installation
 
