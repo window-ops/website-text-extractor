@@ -23,6 +23,6 @@ To use the Website Text Extractor, users must have the following software:
 
 - Open the Website Text Extractor program.
 - Input the URL of the website you wish to scrape.
-- Click "".
+- Click "Get text from website".
 - Wait for the program to scrape the website.
 - Once complete, the extracted text will be displayed in the GUI.
