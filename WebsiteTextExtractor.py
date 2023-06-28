@@ -24,7 +24,7 @@ def program():
         [sg.Button('Get text from website')],
     ]
 
-    window = sg.Window('Text from URL:', layout)
+    window = sg.Window('Text from URL', layout)
 
     while True:
         event, values = window.read()
