@@ -6,23 +6,23 @@ The Website Text Extractor is a program that allows users to extract all the tex
 
 ## Features
 
-    Extracts all text from a given URL
-    User-friendly GUI
-    Easy to use and navigate
-    Efficient and reliable web scraping capabilities
+- Extracts all text from a given URL
+- User-friendly GUI
+- Easy to use and navigate
+- Efficient and reliable web scraping capabilities
 
 ## Installation
 
 To use the Website Text Extractor, users must have the following software:
 
-    Python 3.x
-    Pysimplegui
-    Beautifulsoup
+- Python 3.x
+- Pysimplegui
+- Beautifulsoup
 
 ## How to Use
 
-    Open the Website Text Extractor program.
-    Input the URL of the website you wish to scrape.
-    Select 'Extract Text'.
-    Wait for the program to scrape the website.
-    Once complete, the extracted text will be displayed in the GUI.
+- Open the Website Text Extractor program.
+- Input the URL of the website you wish to scrape.
+- Click "".
+- Wait for the program to scrape the website.
+- Once complete, the extracted text will be displayed in the GUI.
